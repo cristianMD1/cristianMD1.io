@@ -5,10 +5,10 @@ self.addEventListener('install', (e) => {
       '/cristianMD11.github.io/index.html',
       '/cristianMD11.github.io/index.js',
       '/cristianMD11.github.io/style.css',
-      '/cristianMD11.github.io/images/fox1.jpg',
-      '/cristianMD11.github.io/images/fox2.jpg',
-      '/cristianMD11.github.io/images/fox3.jpg',
-      '/cristianMD11.github.io/images/fox4.jpg',
+      '/cristianMD11.github.io/images/goku1.jpg',
+      '/cristianMD11.github.io/images/goku2.jpg',
+      '/cristianMD11.github.io/images/goku3.jpg',
+      '/cristianMD11.github.io/images/goku4.jpg',
     ])),
   );
 });
